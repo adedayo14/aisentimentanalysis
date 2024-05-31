@@ -36,7 +36,7 @@ yarn install
 
 Set up your environment variables by creating a .env.local file in the root directory and add your API key:
 ```bash
-NEXT_PASSWORD=your_password_here
+NEXT_PUBLIC_PASSWORD=your_password_here
 COHERE_API_KEY=your_cohere_api_key
 ```
 Run the development server:
